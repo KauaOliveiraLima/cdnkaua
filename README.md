@@ -45,7 +45,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou em con
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| 🟢 [Matrix — O Jogo](./matrix.py) | Jogo de aventura em texto inspirado no filme Matrix | Python |
+| 🟢 [Matrix — O Jogo](https://github.com/cdnkaua/matrix-jogo) |
 
 > *Mais projetos em breve, conforme avanço nos estudos!*
 
