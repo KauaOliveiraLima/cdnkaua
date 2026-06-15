@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, mundo! 👋 Seja bem-vindo ao meu perfil
+# Hello World! 👋 Seja bem-vindo ao meu perfil
 
 </div>
 
