@@ -75,7 +75,7 @@ class Kaua:
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - [x] Criar meu perfil no GitHub
 - [x] Publicar meu primeiro projeto em Python
